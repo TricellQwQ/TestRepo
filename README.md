@@ -1,2 +1,2 @@
 # TestRepo
-Just a description
+Redacted description
